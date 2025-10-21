@@ -5,7 +5,7 @@ go 1.22.7
 toolchain go1.24.5
 
 require (
-	github.com/mowrong/grpc-api v1.0.0
+	github.com/mowrong/grpc-api v1.1.0
 	google.golang.org/grpc v1.68.0
 )
 
